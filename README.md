@@ -1,12 +1,13 @@
 ## BETRIS
 
-Die Besonderheit bei dieser Tetris-Variante ist die fließende Bewegung der Teile. Bisher habe ich noch keinen Tetris-Klon gesehen der das so macht...
-Erst nach dem Programmieren habe ich das originale Tetris gespielt. Optionen wie das sofortige Fallenlassen per Space-Taste oder die Vorschau hab ich 
-deswegen nicht eingebaut.
-Die Farben sind doch sehr ungewöhnlich. Liegt daran dass mit einem Grünmonitor entwickelt wurde!
+The special feature of this Tetris variant is the flowing movement of the parts. So far I have not seen a Tetris clone that does this...
+Only after programming I played the original Tetris. Options like the instant drop by space key or the preview I didn't include 
+therefore not built in.
+The colors are very unusual. This is because I developed with a green monitor!
 
-Dank an Andreas Weidner für die "Guantanamera"-Musik!
+Thanks to Andreas Weidner for the "Guantanamera" music!
 
 ![Betris](https://github.com/MikeHesser/betris/blob/main/images/betris.png)
 
-Das eigentliche Programm ist in Assembler geschrieben. Leider ist der Source-code nicht mehr auffindbar
+The actual program is written in assembler. Unfortunately the source code is no longer available.
+
